@@ -1,5 +1,5 @@
-## Project
+## Project Demo
 
+Check out our project demo video on YouTube:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EF6fqnnl3Uk" frameborder="0" allowfullscreen></iframe>
-
+[![Project Demo](https://img.youtube.com/vi/EF6fqnnl3Uk/0.jpg)](https://www.youtube.com/watch?v=EF6fqnnl3Uk)
